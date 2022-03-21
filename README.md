@@ -1,4 +1,3 @@
-# samurai-well
 ![Samurai Well - A Game by 2 boys on a road to success](/)
 
 # Histoire :
